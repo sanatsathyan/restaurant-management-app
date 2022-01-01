@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  ADD_ORDER: 'ADD_ORDER',
+  STATUS_UPDATE: 'STATUS_UPDATE',
+  IMPORT_ORDERS: 'IMPORT_ORDERS',
+};
