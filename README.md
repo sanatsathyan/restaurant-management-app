@@ -1,3 +1,3 @@
 # restaurant-management-app
 
-This is a mobile app
+This is a mobile app.
